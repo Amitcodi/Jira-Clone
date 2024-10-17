@@ -52,7 +52,7 @@ body {
     background-position: 0;
   }
   60% {
-    background-position: 180;
+    background-position: 180px;
   }
   100% {
     background-position: 180px;
